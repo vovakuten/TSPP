@@ -1,5 +1,16 @@
-﻿#text{
+#container{
 	text-align:center;
-	padding-top:50px;
-	font-size:150%;
+}
+
+#text{
+	padding-top:70px;
+	font-size:120%;
+}
+
+#container div{
+	margin-top:10px;
+}
+
+#login{
+	
 }
