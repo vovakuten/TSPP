@@ -1,10 +1,15 @@
 #container{
 	text-align:center;
+	font-size:120%;
 }
 
-#text{
-	padding-top:70px;
-	font-size:120%;
+#text1{
+	padding-top:90px;
+	
+}
+
+#text2{
+	padding-top:20px;
 }
 
 #container div{
@@ -12,5 +17,7 @@
 }
 
 #login{
-	
+	margin-top:10px;
+	padding:10px 30px 10px 30px;
+
 }
